@@ -1,4 +1,4 @@
-# Demo React Native 
+# Demo React Native (Local)
 1. Requirements
     Expo, react-native cli, npm, yarn 
 2. start command line in project folder
@@ -7,7 +7,7 @@
 5. on the web browser select TUNNEL
 6. select simulator on Android
 
-# Alternative for running app
+# Alternative for running app (Online)
 Could run test online through my snack.expo.io
 
 https://snack.expo.io/@ngoctuan82/tenacious-juice-box
